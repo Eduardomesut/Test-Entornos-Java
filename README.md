@@ -17,10 +17,19 @@ Con estos test nos dimos cuenta que el programa estaba contando consonantes en v
 
 ![ContadorVolalesArreglado](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/257615d8-e734-4962-ac91-c8d21e273bf6)
 
+Vimos que al introducir tildes el programa no contaba las vocales así que lo corregimos:
+
+![tildes](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/90d9c0d4-4157-46bd-bc6b-1ab52d9efbb1)
+
 
 Aqui estan los test correctos:
 
 ![TestVocalesCorrecto](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/7d2ea6fb-a3a0-4534-be2e-84ad503c1656)
+
+y con tildes:
+
+![testTildes](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/e62a994d-4d41-47d1-9b51-a21820b1ff7c)
+
 
 
 Finalmente hicimos los test de invertir la palabra, realizamos los test y comprobamos que no invertían la palabra como se pretende.
