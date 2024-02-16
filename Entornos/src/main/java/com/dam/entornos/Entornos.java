@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
 package com.dam.entornos;
 
 /**
@@ -9,9 +9,7 @@ package com.dam.entornos;
  * @author dev
  */
 public class Entornos {
-
     public static void main(String[] args) {
-        Calculadora calc = new Calculadora();
-        System.out.println(calc.sumar(1, 1));
+        System.out.println("holi");
     }
 }
