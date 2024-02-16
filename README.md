@@ -31,11 +31,13 @@ Finalmente hicimos los test de invertir la palabra, realizamos los test y compro
 Luego corregimos el programa para que funcionara correctamente como podemos ver a continuación:
 
 
----Insertar imagen programa invertir corregido---
+![palabraInvertidaCorregido](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/676c3573-24f6-4b45-9405-081c140dfab5)
+
 
 
 Y finalmente realizamos los test al programa corregido para asegurarnos de su buen funcionamiento.
 
----Insertar imagen de test invertir palabra correctos---
+![testBien](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/cbf39e87-9686-4265-8ee4-cb1c53c3ea9f)
+
 
 
