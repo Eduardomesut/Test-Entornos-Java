@@ -22,3 +22,20 @@ Aqui estan los test correctos:
 
 ![TestVocalesCorrecto](https://github.com/Eduardomesut/Test-Entornos-Java/assets/93294713/7d2ea6fb-a3a0-4534-be2e-84ad503c1656)
 
+
+Finalmente hicimos los test de invertir la palabra, realizamos los test y comprobamos que no invertían la palabra como se pretende.
+
+---Insertar imagen test fallidos---
+
+
+Luego corregimos el programa para que funcionara correctamente como podemos ver a continuación:
+
+
+---Insertar imagen programa invertir corregido---
+
+
+Y finalmente realizamos los test al programa corregido para asegurarnos de su buen funcionamiento.
+
+---Insertar imagen de test invertir palabra correctos---
+
+
