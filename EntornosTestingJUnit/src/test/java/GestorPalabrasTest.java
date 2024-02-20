@@ -22,7 +22,7 @@ public class GestorPalabrasTest {
         assertTrue(g.esPalindromo("ana"));
         assertFalse(g.esPalindromo("patata"));
         assertTrue(g.esPalindromo(null));
-        assertTrue(g.esPalindromo("alli vas sevilla"));
+        assertTrue(g.esPalindromo("allí ves sevilla"));
     }
 
     @Test
