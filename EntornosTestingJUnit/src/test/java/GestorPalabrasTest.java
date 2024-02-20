@@ -42,6 +42,4 @@ public class GestorPalabrasTest {
         assertEquals("nótar", g.invertirPalabra("ratón"));
         assertEquals("9988", g.invertirPalabra("8899"));
     }
-    
-    
 }
