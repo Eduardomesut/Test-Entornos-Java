@@ -19,8 +19,8 @@ public class GestorPalabrasTest {
     public void comprobarPalindromo() {
         GestorPalabras g = new GestorPalabras();
         assertTrue(g.esPalindromo("OsO"));
-        assertTrue(g.esPalindromo("ana"));
-        assertFalse(g.esPalindromo("patata"));
+        assertTrue(g.esPalindromo("ána"));
+        assertFalse(g.esPalindromo("patatA"));
         assertTrue(g.esPalindromo(null));
         assertTrue(g.esPalindromo("allí ves sevilla"));
     }
@@ -31,14 +31,16 @@ public class GestorPalabrasTest {
         assertEquals(3, g.contarVocales("PeARTA"));
         assertEquals(6, g.contarVocales("LagartoAOU"));
         assertEquals(3, g.contarVocales("óolaww"));
+        assertEquals(0, g.contarVocales("998"));
     }
     
     @Test
     public void comprobarPalabrasReves(){
         GestorPalabras g = new GestorPalabras();
         assertEquals("nomaj", g.invertirPalabra("jamon"));
-        assertEquals("elppa", g.invertirPalabra("apple"));
-        assertEquals("notar", g.invertirPalabra("raton"));
+        assertEquals("elPpa", g.invertirPalabra("apPle"));
+        assertEquals("nótar", g.invertirPalabra("ratón"));
+        assertEquals("9988", g.invertirPalabra("8899"));
     }
     
     
