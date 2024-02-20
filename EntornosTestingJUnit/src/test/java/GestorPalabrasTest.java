@@ -30,6 +30,7 @@ public class GestorPalabrasTest {
         GestorPalabras g = new GestorPalabras();
         assertEquals(3, g.contarVocales("PeARTA"));
         assertEquals(6, g.contarVocales("LagartoAOU"));
+        assertEquals(3, g.contarVocales("óolaww"));
     }
     
     @Test
